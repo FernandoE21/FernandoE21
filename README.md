@@ -20,5 +20,5 @@ Actualmente, mis proyectos principales (sistemas de gestión de recursos humanos
 
 ### Contacto Profesional
 
-*   **LinkedIn:** https://www.linkedin.com/in/fernando-espinoza-429692448
+*   **LinkedIn:** https://www.linkedin.com/in/fernando-espinoza-dev
 *   **Email:** fe8676959@gmail.com
