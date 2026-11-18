@@ -2,7 +2,7 @@
 
 **Desarrollador de Software | Ecosistema React & Arquitectura Linux**
 
-Estudiante de Ingeniería de Software (UTP) y profesional técnico en Desarrollo de Sistemas (IDAT). Especializado en el diseño y construcción de aplicaciones web escalables. Mi enfoque técnico combina la creación de interfaces de usuario optimizadas con un sólido dominio en la gestión de bases de datos relacionales, administración de redes y despliegue en entornos Linux en producción.
+Estudiante de Ingeniería de Software y profesional técnico en Desarrollo de Sistemas. Especializado en el diseño y construcción de aplicaciones web escalables. Mi enfoque técnico combina la creación de interfaces de usuario optimizadas con un sólido dominio en la gestión de bases de datos relacionales, administración de redes y despliegue en entornos Linux en producción.
 
 Actualmente, mis proyectos principales (sistemas de gestión de recursos humanos y control de inventarios corporativos) operan bajo acuerdos de confidencialidad y se mantienen en repositorios privados. En este espacio, expongo arquitecturas genéricas y desarrollos estructurados que reflejan mis estándares de código.
 
